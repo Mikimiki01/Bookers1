@@ -1,0 +1,66 @@
+{
+	"type": "pane",
+	"name": "pane0",
+	"nodes": [
+		{
+			"type": "tab",
+			"name": "tab0",
+			"path": "",
+			"className": [
+				"tab0",
+				"focus"
+			],
+			"document": {
+				"changed": false,
+				"meta": {
+					"timestamp": 1685661839826
+				},
+				"filter": true,
+				"title": "bash - \"ip-172-31-22-164.ap-northeast-1.compute.internal\" ",
+				"tooltip": "bash - \"ip-172-31-22-164.ap-northeast-1.compute.internal\" ",
+				"terminal": {
+					"id": "cloud9_terminal_280",
+					"cwd": "",
+					"width": 424,
+					"height": 872
+				}
+			},
+			"editorType": "terminal",
+			"active": true
+		},
+		{
+			"type": "tab",
+			"name": "tab1",
+			"path": "",
+			"className": [
+				"tab1"
+			],
+			"document": {
+				"changed": false,
+				"meta": {
+					"timestamp": 1685661839984
+				},
+				"filter": true,
+				"title": "bash - \"ip-172-31-22-164.ap-northeast-1.compute.internal\" ",
+				"tooltip": "bash - \"ip-172-31-22-164.ap-northeast-1.compute.internal\" ",
+				"terminal": {
+					"id": "cloud9_terminal_655",
+					"cwd": "",
+					"width": 424,
+					"height": 872
+				}
+			},
+			"editorType": "terminal",
+			"active": false
+		}
+	],
+	"skin": "editor_tab",
+	"skinset": "default",
+	"meta": {
+		"accessList": [
+			"tab0",
+			"tab1"
+		]
+	},
+	"focus": "tab0"
+}
